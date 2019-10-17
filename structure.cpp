@@ -10,7 +10,7 @@ struct emp
  int year;
  char city[20];
 };
-struct emp e[5];
+struct emp e[20];
 void enter();
 void display();
 int n;
